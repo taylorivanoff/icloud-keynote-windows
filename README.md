@@ -8,11 +8,11 @@ iCloud Keynote desktop app for Windows. Loads [icloud.com/keynote](https://www.i
 
 ## Features
 
-- **System tray** — close hides to tray; left-click toggles the window
-- **Safari user-agent** — Apple web session compatibility
-- **Cookie persistence** — stay signed in across restarts
-- **Start with Windows** — installer registers a login item
-- **Deep link** — `icloud-keynote://` protocol handler
+- **System tray** - close hides to tray; left-click toggles the window
+- **Safari user-agent** - Apple web session compatibility
+- **Cookie persistence** - stay signed in across restarts
+- **Start with Windows** - installer registers a login item
+- **Deep link** - `icloud-keynote://` protocol handler
 
 ## Installation
 
